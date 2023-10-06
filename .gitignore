@@ -7,7 +7,7 @@ __pycache__/
 # folders not to add
 Notebooks
 Notebooks/data
-\attempt01.ipynb
+Notebooks/attempt01.ipynb
 SCMS_Delivery_History_Dataset.csv
 artifact
 
