@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# folders not to add
+Notebooks
+Notebooks/data
+\attempt01.ipynb
+SCMS_Delivery_History_Dataset.csv
+artifact
+
 # C extensions
 *.so
 
